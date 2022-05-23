@@ -1,2 +1,2 @@
 # Login_Cadastro
-Pagina de Login/Cadastro JavaScript
+Pagina de Login/Cadastro em JavaScript
